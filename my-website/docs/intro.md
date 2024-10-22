@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+Hola
+
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
 ### What you'll need

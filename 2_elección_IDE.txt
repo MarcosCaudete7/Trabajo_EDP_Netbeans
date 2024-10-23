@@ -1,0 +1,10 @@
+IDE elegida NetBeans
+Pensamos en usar algunas IDE entre las opciones estaba Atom, NetBeans. 
+Basándonos en la interfaz cuidada de Atom y el conocimiento previo sobre NetBeans, decidimos investigar sobre ellos.
+Nos decantamos por NetBeans teniendo en cuenta que tiene muchos más años de mantenimiento y experiencia, y ofrece herramientas más avanzadas de las que Atom carece.
+Pensando en las herramientas y la utilidad que tendría cada IDE, NetBeans ofrecía mejores herramientas sin necesidad de la instalación de muchos plugins, cosa que Atom debe hacer para obtener mayor utilidad, afectando al rendimiento propio.
+
+
+Fuentes de información:
+https://ventajasydesventajastop.com/netbeans-ventajas-y-desventajas/
+https://www.proscont.com/ventajas-y-desventajas-atom-editor-de-texto/

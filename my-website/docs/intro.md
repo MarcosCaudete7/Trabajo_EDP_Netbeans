@@ -41,14 +41,55 @@ The `npm run start` command builds your website locally and serves it through a 
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
 
-## 4. Aprender a manejar netbeans
+# 4. Aprender a manejar netbeans
 
-### 4.1 Configuración básica
+## 4.1 Configuración básica
 
-### 4.2 Ejecutar un programa
+<details>
+<summary>JDK</summary>
 
-### 4.3 Debug en netbeans
+* Tools -> Java Platforms
+* Projects -> Java Dependecies
+* Tools -> Java Platforms -> Add platform
 
-### 4.4 Atajos de teclado
+### Netbeans 23, necesita JDK 17+
 
-### 4.5 Ventana de estrucura .java
+</details>
+
+<details>
+<summary>Compilados</summary>
+
+</details>
+
+<details>
+<summary>Carpeta Test</summary>
+
+</details>
+
+<details>
+<summary>Librerías, dependecias</summary>
+
+</details>
+
+## 4.1.2 Ejecutar un programa
+
+<details>
+<summary>4.1.2 Formas de ejecutar un programa</summary>
+
+### Para ejecutar un programa en netbeans existen varias opciones: 
+
+* Botón de run Project.
+* Pestaña Run -> Run project
+* Pestaña Run -> Run File
+* F6 -> Run Project
+* Mayús + F6 -> Run File
+
+![](../static/img/play.PNG)
+
+</details>
+
+### 4.1.3 Debug en netbeans
+
+### 4.1.4 Atajos de teclado
+
+### 4.1.5 Ventana de estrucura .java

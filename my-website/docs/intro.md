@@ -2,9 +2,6 @@
 sidebar_position: 1
 ---
 
-# Hola
-
-aaaa
 
 Hola aSDIOS
 

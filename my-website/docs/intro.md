@@ -59,15 +59,24 @@ Open `docs/intro.md` (this page) and edit some lines: the site **reloads automat
 <details>
 <summary>Compilados</summary>
 
+![](../static/img/compilado.PNG)
+
 </details>
 
 <details>
 <summary>Carpeta Test</summary>
 
+* Clic derecho en el nombre del proyecto.New > Java Class.
+En el campo Package, escribe “test” para crear la carpeta de test.
+
+
 </details>
 
 <details>
 <summary>Librerías, dependecias</summary>
+
+* Tools -> Libraries
+* Projects -> Dependencies
 
 </details>
 
@@ -91,5 +100,37 @@ Open `docs/intro.md` (this page) and edit some lines: the site **reloads automat
 ### 4.1.3 Debug en netbeans
 
 ### 4.1.4 Atajos de teclado
+
+<details>
+<summary>Algunos atajos de teclado</summary>
+
+* Ctrl + Espacio -> Sugerencias de código
+
+* Ctrl + Shift + I -> Realizar importaciones automáticas de librerías necesarias
+
+* Ctrl + E -> Eliminar la línea actual.
+
+* Alt + Shift + F -> Organizar código.
+
+* Ctrl + Shift + U -> Crear test.
+
+* Ctrl + Shift + D -> Acceder a las últimas cinco copias del portapapeles.
+
+* Ctrl + Shift + C -> Comentar línea seleccionada.
+
+* Shift + Suprimir -> Cortar línea actual.
+
+* Ctrl + K -> Autocompletar código.
+
+* for + Tabulador -> Insertar un bucle for.
+
+* Ctrl + Shift + Flecha Abajo -> Duplicar línea seleccionada.
+
+* Ctrl + 4 -> Mostrar output (consola de salida).
+
+* Ctrl + Shift + R -> Selección rectangular.
+
+
+</details>
 
 ### 4.1.5 Ventana de estrucura .java

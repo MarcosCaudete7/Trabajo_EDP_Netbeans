@@ -4,12 +4,12 @@ sidebar_position: 1
 
 # Elección del IDE
 
-## IDE elegida: NetBeans
+## IDE elegido: NetBeans
 
 Pensamos en usar algunas IDE, entre las opciones estaba Atom y NetBeans principalmente.
 Las cuales las encontramos buscando IDEs por Internet que podriamos usar, queriendo encontrar una que no hubiesemos usado nunca.
 
-Lo que nos llamó la atención a primera vista de cada IDE fué lo siguiente.
+Lo que nos llamó la atención a primera vista de cada IDE fue lo siguiente.
 
 ### Atom
 
@@ -26,7 +26,7 @@ más potente y completo que Atom.
 
 Cuando comenzamos a investigar nos dimos cuenta de varias cosas, como:
 
-- Que NetBeans tiene una interfaz gráfica bastante más antigua que Atom, lo cuál no nos gusto tanto.
+- Que NetBeans tiene una interfaz gráfica bastante más antigua que Atom, lo cuál no nos gustó tanto.
 
 Pero seguimos investigando acerca del rendimiento y la potencia.
 

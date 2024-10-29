@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Elección del IDE
+# Manejar IDE
 
 ## IDE elegida: NetBeans
 

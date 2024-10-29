@@ -1,20 +1,10 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-  - [sidebar_position: 1](#sidebar_position-1)
+[](#sidebar_position-1)
 - [Elección del IDE](#elecci%C3%B3n-del-ide)
   - [IDE elegido: NetBeans](#ide-elegido-netbeans)
     - [Atom](#atom)
     - [NetBeans](#netbeans)
     - [Investigación](#investigaci%C3%B3n)
     - [Fuentes de información](#fuentes-de-informaci%C3%B3n)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
----
-sidebar_position: 1
----
 
 # Elección del IDE
 

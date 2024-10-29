@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Uso Libre',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/licencia.svg').default,
     description: (
       <>
       NetBeans es de código abierto y por ende gratuito, 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Multiplataforma',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/multiplataforma.svg').default,
     description: (
       <>
       Netbeans se puede descargar en distintos dispositivos, asi como ejecutarse en varios S.O

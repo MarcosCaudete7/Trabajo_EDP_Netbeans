@@ -18,8 +18,8 @@ const FeatureList = [
     Svg: require('@site/static/img/multilenguaje.svg').default,
     description: (
       <>
-      NetBeans no solo compila en Java, si no que tambien puede 
-      utilizar otros como PHP, C, Ruby, entre bastantes mas
+      NetBeans no solo compila en Java, sino que tambien puede 
+      utilizar otros como PHP, C, Ruby, entre bastantes más
       </>
     ),
   },
@@ -28,7 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/multiplataforma.svg').default,
     description: (
       <>
-      Netbeans se puede descargar en distintos dispositivos, asi como ejecutarse en varios S.O
+      Netbeans se puede descargar en distintos dispositivos, así como ejecutarse en varios S.O
       </>
     ),
   },

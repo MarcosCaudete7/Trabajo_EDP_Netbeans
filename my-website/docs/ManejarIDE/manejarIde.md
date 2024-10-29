@@ -2,6 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+  - [sidebar_position: 1](#sidebar_position-1)
 - [Manejar IDE](#manejar-ide)
   - [IDE elegida: NetBeans](#ide-elegida-netbeans)
     - [Atom](#atom)

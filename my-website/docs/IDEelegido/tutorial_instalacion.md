@@ -1,8 +1,4 @@
----
-sidebar_position: 6
----
-
-# Tutorial de instalación de NetBeans
+# 1.2 Tutorial de instalación de NetBeans
 
 ### Paso 1
 
@@ -12,7 +8,7 @@ https://netbeans.apache.org/front/main/download/nb23/
 Nos llevará al apartado de instalación en la página oficial de Apache NetBeans.  
 ![web_instalacion_lnetbeans](img/tutorial_1.png)
 Donde instalaremos el instalador de NetBeans con la extensión .exe.  
-![netbeans.exe](img/tutorial_2.png)
+![netbeans.exe](img/tutorial_2.png "Archivo .exe de NetBeans")
 
 ### Paso 2
 
@@ -23,17 +19,16 @@ Dándole al botón "Customize..." puedes seleccionar los packs de lenguajes que 
 
 ### Paso 3
 
-Aceptar los Términos y Condiciones  
+Aceptar los Términos y Condiciones.
 ![terms_&_conds](img/tutorial_4.png)
 
 ### Paso 4
 
-Establecer la ruta en la que se quiere instalar NetBeans.  
-Y establecer el JDK que se quiere utilizar.  
+Establecer la ruta en la que se quiere instalar NetBeans y el JDK que se quiere utilizar.  
 ![paths](img/tutorial_5.png)
 
 ### Paso 5
 
-Finalmente instalamos  
+Finalmente instalamos.  
 ![paths](img/tutorial_6.png)  
-Y ya lo tendriamos instalado
+Y ya estaría completamente instalado.

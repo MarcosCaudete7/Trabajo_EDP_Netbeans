@@ -1,12 +1,4 @@
-[](#sidebar_position-1)
-- [Elección del IDE](#elecci%C3%B3n-del-ide)
-  - [IDE elegido: NetBeans](#ide-elegido-netbeans)
-    - [Atom](#atom)
-    - [NetBeans](#netbeans)
-    - [Investigación](#investigaci%C3%B3n)
-    - [Fuentes de información](#fuentes-de-informaci%C3%B3n)
-
-# Elección del IDE
+# 1.1 ¿Por qué hemos escogido NetBeans?
 
 ## IDE elegido: NetBeans
 

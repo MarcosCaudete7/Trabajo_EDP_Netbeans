@@ -1,7 +1,4 @@
 {
   "label": "Presentacion",
-  "position": 2,
-  "link": {
-    "type": "generated-index"
-  }
+  "position": 1
 }

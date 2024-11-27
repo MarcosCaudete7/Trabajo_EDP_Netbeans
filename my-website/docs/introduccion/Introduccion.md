@@ -18,6 +18,11 @@ A través de este manual, aprenderás a:
 - Aprovechar las herramientas integradas de depuración.
 - Utilizar la personalización de atajos de teclado.
 
+### Importante
+
+Tener en cuenta que este manual se debe seguir en orden, ya que algunos pasos como la instalación del IDE deben 
+realizarse previamente a cualquier otro apartado del manual.
+
 #### Manual creado por:
 - Hugo Tarín Gonzalez
 - Marcos Gabaldón Escamilla

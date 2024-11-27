@@ -2,6 +2,7 @@
   "label": "1.- Elección IDE",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Lo primero, vamos a hablar sobre el porqué de nuestra elección de NetBeans y cómo obtener el programa con un Manual de instalación muy sencillo. Para partir del mismo comienzo e ir aprendiendo a partir de este punto."
   }
 }

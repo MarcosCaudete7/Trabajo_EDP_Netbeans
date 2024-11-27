@@ -1,4 +1,4 @@
-# 1.2 Tutorial de instalación de NetBeans
+# 1.2 Manual de instalación de NetBeans
 
 ### Paso 1
 

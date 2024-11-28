@@ -1,4 +1,4 @@
-# 3. Aprender a manejar netbeans
+# 3. Aprender a manejar NetBeans
 
 ### 3.1 Configuración básica
 

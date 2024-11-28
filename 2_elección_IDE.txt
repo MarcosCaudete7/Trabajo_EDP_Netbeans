@@ -1,8 +1,9 @@
 IDE elegida NetBeans
 Pensamos en usar algunas IDE entre las opciones estaba Atom, NetBeans. 
-Basándonos en la interfaz cuidada de Atom y el conocimiento previo sobre NetBeans, decidimos investigar sobre ellos.
+Basándonos en la interfaz cuidada de Atom y el conocimiento previo acerca de la popularidad de NetBeans, decidimos investigar sobre ellos.
+{atom_IDE.jpg}
 Nos decantamos por NetBeans teniendo en cuenta que tiene muchos más años de mantenimiento y experiencia, y ofrece herramientas más avanzadas de las que Atom carece.
-Pensando en las herramientas y la utilidad que tendría cada IDE, NetBeans ofrecía mejores herramientas sin necesidad de la instalación de muchos plugins, cosa que Atom debe hacer para obtener mayor utilidad, afectando al rendimiento propio.
+Investigando acerca de las herramientas y la utilidad que tendría cada IDE, NetBeans ofrecía mejores herramientas sin necesidad de la instalación de muchos plugins, cosa que Atom debe hacer para obtener mayor utilidad, afectando al rendimiento propio.
 
 
 Fuentes de información:

@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Uso Libre',
+    Svg: require('@site/static/img/licencia.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      NetBeans es de código abierto y por ende gratuito, 
+      de modo que cualquiera puede descargarse esta aplicación.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Multilenguaje',
+    Svg: require('@site/static/img/multilenguaje.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      NetBeans no solo compila en Java, sino que tambien puede 
+      utilizar otros como PHP, C, Ruby, entre bastantes más
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Multiplataforma',
+    Svg: require('@site/static/img/multiplataforma.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Netbeans se puede descargar en distintos dispositivos, así como ejecutarse en varios S.O
       </>
     ),
   },

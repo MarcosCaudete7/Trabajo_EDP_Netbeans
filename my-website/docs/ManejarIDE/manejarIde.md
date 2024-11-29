@@ -121,8 +121,11 @@ Clicar el número de línea en el que queramos establecer un breakpoint, siempre
 
 ##### La ventana de estructura esta por defecto en la esquina inferior izquierda.
 
-* Windows -> Navigator
+* Pestaña "Window" -> Navigator
 * Ctrl + 7
+    
+    Después de abrir la ventana puede ser que no te aparezca la vista de ningún archivo debes clicar un archivo .java, 
+para que te aparezca la vista sobre ese proyecto.
 
 ![](../../static/img/navigator.PNG)
 

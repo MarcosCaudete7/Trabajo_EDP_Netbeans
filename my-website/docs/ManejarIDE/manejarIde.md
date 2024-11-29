@@ -5,9 +5,9 @@
 <details>
 <summary>3.1.1 JDK</summary>
 
-* Tools -> Java Platforms
-* Projects -> Java Dependecies
 * Tools -> Java Platforms -> Add platform
+* En el apartado izquierdo vamos a "Projects -> Propierties del Proyecto -> Libraries"
+![](img/manejarIDE1.png)
 
 ##### Netbeans 23, necesita JDK 17+
 
@@ -16,6 +16,8 @@
 <details>
 <summary>3.1.2 Compilados</summary>
 
+* En el apartado "Files" abre el árbol de archivos del proyecto, y en una carpeta llamado igual que el proyecto aparecen
+los alchivos compilados.
 ![](../../static/img/compilado.PNG)
 
 </details>
@@ -23,8 +25,8 @@
 <details>
 <summary>3.1.3 Carpeta Test</summary>
 
-* Clic derecho en el nombre del proyecto.New > Java Class.
-En el campo Package, escribe “test” para crear la carpeta de test.
+* En el apartado "Projects". Clic derecho sobre el archivo del proyecto. Luego, darle a New > Java Class.
+Y en el campo Package de la ventana emergente, escribe “test” para crear la carpeta de test.
 
 
 </details>
@@ -33,7 +35,11 @@ En el campo Package, escribe “test” para crear la carpeta de test.
 <summary>3.1.4 Librerías, dependecias</summary>
 
 * Tools -> Libraries
+
+    Para añadir un Classpath hacer click en "Add JAR/Folder"
 * Projects -> Dependencies
+
+    Para añadir Classpath o Modulepath haz click en el "+" de la derecha y "Add JAR/Folder"
 
 </details>
 
@@ -59,7 +65,8 @@ En el campo Package, escribe “test” para crear la carpeta de test.
 <details>
 <summary>Como hacer Debug</summary>
 
-##### Al hacer click derecho sobre breakpoint -> Properties, se pueden añadir condiciones y otros parámetros.
+Clicar el número de línea en el que queramos establecer un breakpoint, siempre y cuando sea posible ponerlo.
+##### Al hacer click derecho sobre el punto rojo que representa el breakpoint -> Properties, se pueden añadir condiciones y otros parámetros.
 
 * Debug Project -> Botón Debug | Crtl + F5 | Debug -> Debug Project
 * Debug File -> Debug -> Debug File | Crtl + Mayús + F5

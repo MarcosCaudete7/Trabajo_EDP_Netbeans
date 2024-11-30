@@ -95,7 +95,7 @@ Clicar el número de línea en el que queramos establecer un breakpoint, siempre
 
 * Ctrl + Shift + U -> Crear test.
 
-* Ctrl + Shift + D -> Acceder a las últimas cinco copias del portapapeles.
+* Ctrl + Shift + D -> Acceder a las últimas nueve copias del portapapeles.
 
 * Ctrl + Shift + C -> Comentar línea seleccionada.
 
